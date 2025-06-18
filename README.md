@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaromal M</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=silkscreen&size=18&duration=1000&color=2AF7DB&background=FFFFFF00&center=true&multiline=true&repeat=false&width=1050&height=80&lines=I'm+a+passionate+computer+science+student+exploring+Django+,Python+and+Machine+Learning+through+hands+-on+projects." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=silkscreen&size=18&duration=1000&color=2AF7DB&background=FFFFFF00&center=true&multiline=true&repeat=false&width=1050&height=80&lines=I'm+a+passionate+Computer+Science+student+exploring+Django,+Python,+and+Machine+Learning+through+hands-on+projects." alt="Typing SVG" />
+</a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunvijo04&label=Profile%20views&color=0e75b6&style=flat" alt="arunvijo04" /> </p>
